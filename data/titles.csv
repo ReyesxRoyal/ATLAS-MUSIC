@@ -1,0 +1,6 @@
+id,title,artist,genre,duration,file_path,uploaded_by,created_at
+1,Happy,Pharrell Williams,Pop,3:53,/songs/pharrell_happy.mp3,1,2025-04-24 15:29:03
+2,Bohemian Rhapsody,Queen,Rock,5:55,/songs/queen_bohemian.mp3,1,2025-04-24 15:29:03
+3,Sweet Child O' Mine,Guns N' Roses,Rock,4:58,/songs/gnr_sweet_child.mp3,1,2025-04-24 15:29:03
+4,Uptown Funk,Mark Ronson ft. Bruno Mars,Pop/Funk,4:38,/songs/mark_bruno_uptown.mp3,1,2025-04-24 15:29:03
+5,Hello,Adele,Pop/Soul,4:55,/songs/adele_hello.mp3,1,2025-04-24 15:29:03
